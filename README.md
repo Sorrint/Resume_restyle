@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут:
 
-[Работа по курсу HTML и CSS от Result School] (https://sorrint.github.io/resume/)
+[Работа по курсу HTML и CSS от Result School] (https://sorrint.github.io/Resume_restyle/)
